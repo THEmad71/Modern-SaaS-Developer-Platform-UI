@@ -1,7 +1,7 @@
 import { Link, useLocation } from 'react-router';
 import { Search, Github, Moon, Sun } from 'lucide-react';
 import { useTheme } from '../contexts/ThemeContext';
-import { Button } from './ui/Button';
+import { Button } from './ui/button';
 
 export default function Navbar() {
   const { theme, toggleTheme } = useTheme();
