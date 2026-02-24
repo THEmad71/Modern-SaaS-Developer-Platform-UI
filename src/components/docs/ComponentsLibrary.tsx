@@ -2,8 +2,8 @@ import { useState } from 'react';
 import { Link } from 'react-router';
 import Navbar from '../Navbar';
 import Sidebar from '../Sidebar';
-import { Card, CardHeader, CardTitle, CardDescription } from '../ui/Card';
-import { Button } from '../ui/Button';
+import { Card, CardHeader, CardTitle, CardDescription } from '../ui/card';
+import { Button } from '../ui/button';
 import { Search } from 'lucide-react';
 
 const categories = ['All', 'Layout', 'Navigation', 'Forms', 'Data Display', 'Feedback', 'Marketing'];
