@@ -1,4 +1,4 @@
-import { Button } from '../ui/Button';
+import { Button } from '../ui/button';
 import { Download, Save, Share2, Eye, Code, Shapes, Layout } from 'lucide-react';
 import { PlaygroundMode, ViewMode } from './Playground';
 
