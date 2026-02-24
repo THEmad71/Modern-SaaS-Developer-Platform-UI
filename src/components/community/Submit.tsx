@@ -1,11 +1,11 @@
 import { useState } from 'react';
 import Navbar from '../Navbar';
 import Sidebar from '../Sidebar';
-import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '../ui/Card';
-import { Input } from '../ui/Input';
-import { Textarea } from '../ui/Textarea';
-import { Button } from '../ui/Button';
-import { Alert } from '../ui/Alert';
+import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '../ui/card';
+import { Input } from '../ui/input';
+import { Textarea } from '../ui/textarea';
+import { Button } from '../ui/button';
+import { Alert } from '../ui/alert';
 import { Upload, Award } from 'lucide-react';
 
 export default function CommunitySubmit() {
