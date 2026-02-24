@@ -1,7 +1,7 @@
 import Navbar from '../Navbar';
 import Sidebar from '../Sidebar';
 import CodeBlock from '../CodeBlock';
-import { Alert } from '../ui/Alert';
+import { Alert } from '../ui/alert';
 
 export default function Installation() {
   return (
