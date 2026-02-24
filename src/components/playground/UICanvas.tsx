@@ -1,8 +1,8 @@
 import { UIComponent } from './UIBuilderMode';
-import { Button } from '../ui/Button';
-import { Card, CardHeader, CardTitle, CardDescription } from '../ui/Card';
-import { Input } from '../ui/Input';
-import { Alert } from '../ui/Alert';
+import { Button } from '../ui/button';
+import { Card, CardHeader, CardTitle, CardDescription } from '../ui/card';
+import { Input } from '../ui/input';
+import { Alert } from '../ui/alert';
 import { Trash2, ZoomIn, ZoomOut } from 'lucide-react';
 import { useState } from 'react';
 
