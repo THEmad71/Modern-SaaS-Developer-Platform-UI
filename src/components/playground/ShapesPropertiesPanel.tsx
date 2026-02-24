@@ -1,5 +1,5 @@
 import { Shape } from './ShapesMode';
-import { Input } from '../ui/Input';
+import { Input } from '../ui/input';
 
 interface ShapesPropertiesPanelProps {
   shape: Shape;
