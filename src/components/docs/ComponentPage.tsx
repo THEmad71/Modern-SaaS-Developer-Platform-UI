@@ -4,10 +4,10 @@ import Sidebar from '../Sidebar';
 import ComponentPreview from '../ComponentPreview';
 import CodeBlock from '../CodeBlock';
 import { Button } from '../ui/button';
-import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '../ui/Card';
-import { Input } from '../ui/Input';
+import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '../ui/card';
+import { Input } from '../ui/input';
 import { User, Calendar, BarChart, Zap } from 'lucide-react';
-import { GlassmorphismCard } from '../ui/GlassmorphismCard';
+import { GlassmorphismCard } from '../ui/glassmorphismCard';
 
 const componentData: Record<string, any> = {
   card: {
