@@ -1,4 +1,4 @@
-import { Button } from '../ui/Button';
+import { Button } from '../ui/button';
 import { Download, RotateCcw, Code, Eye } from 'lucide-react';
 
 interface TopBarProps {
