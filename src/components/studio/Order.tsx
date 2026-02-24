@@ -1,10 +1,10 @@
 import { useState } from 'react';
 import Navbar from '../Navbar';
 import Sidebar from '../Sidebar';
-import { Button } from '../ui/Button';
-import { Input } from '../ui/Input';
-import { Textarea } from '../ui/Textarea';
-import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '../ui/Card';
+import { Button } from '../ui/button';
+import { Input } from '../ui/input';
+import { Textarea } from '../ui/textarea';
+import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '../ui/card';
 import { Calendar, Clock, Check } from 'lucide-react';
 
 export default function StudioOrder() {
