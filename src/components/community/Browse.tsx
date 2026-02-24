@@ -1,8 +1,8 @@
 import { Link } from 'react-router';
 import Navbar from '../Navbar';
 import Sidebar from '../Sidebar';
-import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '../ui/Card';
-import { Button } from '../ui/Button';
+import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '../ui/card';
+import { Button } from '../ui/button';
 import { Heart, Eye, User } from 'lucide-react';
 import { ImageWithFallback } from '../figma/ImageWithFallback';
 
