@@ -1,5 +1,5 @@
 import { ComponentInstance } from './Playground';
-import { Input } from '../ui/Input';
+import { Input } from '../ui/input';
 
 interface PropertiesPanelProps {
   component: ComponentInstance;
