@@ -1,6 +1,6 @@
 import Navbar from '../Navbar';
 import Sidebar from '../Sidebar';
-import { Alert } from '../ui/Alert';
+import { Alert } from '../ui/alert';
 import { CheckCircle } from 'lucide-react';
 
 export default function Introduction() {
