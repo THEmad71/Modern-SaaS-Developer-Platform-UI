@@ -1,5 +1,5 @@
 import { ReactNode } from "react";
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "./ui/Tabs";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "./ui/tabs";
 import CodeBlock from "./CodeBlock";
 
 interface ComponentPreviewProps {
