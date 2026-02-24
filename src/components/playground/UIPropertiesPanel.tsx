@@ -1,5 +1,5 @@
 import { UIComponent } from './UIBuilderMode';
-import { Input } from '../ui/Input';
+import { Input } from '../ui/input';
 
 interface UIPropertiesPanelProps {
   component: UIComponent;
